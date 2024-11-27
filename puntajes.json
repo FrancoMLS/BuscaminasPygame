@@ -326,5 +326,9 @@
     {
         "nick": "a",
         "puntaje": 4
+    },
+    {
+        "nick": "w",
+        "puntaje": 1
     }
 ]
