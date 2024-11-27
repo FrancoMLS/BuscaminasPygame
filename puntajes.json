@@ -302,5 +302,29 @@
     {
         "nick": "a",
         "puntaje": 2
+    },
+    {
+        "nick": "4",
+        "puntaje": 1
+    },
+    {
+        "nick": "5",
+        "puntaje": 4
+    },
+    {
+        "nick": "8",
+        "puntaje": 20
+    },
+    {
+        "nick": "4",
+        "puntaje": 0
+    },
+    {
+        "nick": "4",
+        "puntaje": 3
+    },
+    {
+        "nick": "a",
+        "puntaje": 4
     }
 ]
